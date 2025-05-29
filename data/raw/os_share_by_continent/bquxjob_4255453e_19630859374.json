@@ -1,0 +1,301 @@
+[{
+  "continent": "Africa",
+  "os": "mikrotik routeros",
+  "percentage_share": "23.71",
+  "count": "115"
+}, {
+  "continent": "Africa",
+  "os": "fortinet fortios",
+  "percentage_share": "23.71",
+  "count": "115"
+}, {
+  "continent": "Africa",
+  "os": "cisco ios",
+  "percentage_share": "13.2",
+  "count": "64"
+}, {
+  "continent": "Africa",
+  "os": "\u003cother\u003e",
+  "percentage_share": "11.34",
+  "count": "55"
+}, {
+  "continent": "Africa",
+  "os": "microsoft windows",
+  "percentage_share": "7.84",
+  "count": "38"
+}, {
+  "continent": "Africa",
+  "os": "check point gaia os",
+  "percentage_share": "6.6",
+  "count": "32"
+}, {
+  "continent": "Africa",
+  "os": "proxmox proxmox",
+  "percentage_share": "4.12",
+  "count": "20"
+}, {
+  "continent": "Africa",
+  "os": "ubuntu linux",
+  "percentage_share": "3.3",
+  "count": "16"
+}, {
+  "continent": "Africa",
+  "os": "ubiquiti unifi os",
+  "percentage_share": "3.09",
+  "count": "15"
+}, {
+  "continent": "Africa",
+  "os": "pfsense freebsd",
+  "percentage_share": "3.09",
+  "count": "15"
+}, {
+  "continent": "Asia",
+  "os": "fortinet fortios",
+  "percentage_share": "39.58",
+  "count": "152"
+}, {
+  "continent": "Asia",
+  "os": "mikrotik routeros",
+  "percentage_share": "23.18",
+  "count": "89"
+}, {
+  "continent": "Asia",
+  "os": "proxmox proxmox",
+  "percentage_share": "18.75",
+  "count": "72"
+}, {
+  "continent": "Asia",
+  "os": "cisco ios",
+  "percentage_share": "5.21",
+  "count": "20"
+}, {
+  "continent": "Asia",
+  "os": "\u003cother\u003e",
+  "percentage_share": "4.69",
+  "count": "18"
+}, {
+  "continent": "Asia",
+  "os": "mikrotik rb3011uias",
+  "percentage_share": "2.6",
+  "count": "10"
+}, {
+  "continent": "Asia",
+  "os": "microsoft windows",
+  "percentage_share": "2.34",
+  "count": "9"
+}, {
+  "continent": "Asia",
+  "os": "debian linux",
+  "percentage_share": "1.82",
+  "count": "7"
+}, {
+  "continent": "Asia",
+  "os": "synology dsm",
+  "percentage_share": "1.04",
+  "count": "4"
+}, {
+  "continent": "Asia",
+  "os": "ubiquiti unifi os",
+  "percentage_share": "0.78",
+  "count": "3"
+}, {
+  "continent": "Europe",
+  "os": "freebsd freebsd",
+  "percentage_share": "28.24",
+  "count": "416"
+}, {
+  "continent": "Europe",
+  "os": "\u003cother\u003e",
+  "percentage_share": "17.99",
+  "count": "265"
+}, {
+  "continent": "Europe",
+  "os": "pfsense freebsd",
+  "percentage_share": "13.24",
+  "count": "195"
+}, {
+  "continent": "Europe",
+  "os": "fortinet fortios",
+  "percentage_share": "12.76",
+  "count": "188"
+}, {
+  "continent": "Europe",
+  "os": "watchguard fireware",
+  "percentage_share": "6.38",
+  "count": "94"
+}, {
+  "continent": "Europe",
+  "os": "microsoft windows",
+  "percentage_share": "5.91",
+  "count": "87"
+}, {
+  "continent": "Europe",
+  "os": "ubiquiti unifi os",
+  "percentage_share": "4.21",
+  "count": "62"
+}, {
+  "continent": "Europe",
+  "os": "sonicwall sonicos",
+  "percentage_share": "3.94",
+  "count": "58"
+}, {
+  "continent": "Europe",
+  "os": "synology dsm",
+  "percentage_share": "3.8",
+  "count": "56"
+}, {
+  "continent": "Europe",
+  "os": "mikrotik routeros",
+  "percentage_share": "3.53",
+  "count": "52"
+}, {
+  "continent": "North America",
+  "os": "fortinet fortios",
+  "percentage_share": "35.85",
+  "count": "1082"
+}, {
+  "continent": "North America",
+  "os": "\u003cother\u003e",
+  "percentage_share": "18.19",
+  "count": "549"
+}, {
+  "continent": "North America",
+  "os": "sonicwall sonicos",
+  "percentage_share": "11.37",
+  "count": "343"
+}, {
+  "continent": "North America",
+  "os": "microsoft windows",
+  "percentage_share": "8.18",
+  "count": "247"
+}, {
+  "continent": "North America",
+  "os": "ubiquiti unifi os",
+  "percentage_share": "7.42",
+  "count": "224"
+}, {
+  "continent": "North America",
+  "os": "watchguard fireware",
+  "percentage_share": "5.17",
+  "count": "156"
+}, {
+  "continent": "North America",
+  "os": "debian linux",
+  "percentage_share": "4.04",
+  "count": "122"
+}, {
+  "continent": "North America",
+  "os": "cisco ios",
+  "percentage_share": "3.55",
+  "count": "107"
+}, {
+  "continent": "North America",
+  "os": "ubuntu linux",
+  "percentage_share": "3.45",
+  "count": "104"
+}, {
+  "continent": "North America",
+  "os": "mikrotik routeros",
+  "percentage_share": "2.78",
+  "count": "84"
+}, {
+  "continent": "Oceania",
+  "os": "fortinet fortios",
+  "percentage_share": "33.33",
+  "count": "115"
+}, {
+  "continent": "Oceania",
+  "os": "\u003cother\u003e",
+  "percentage_share": "18.26",
+  "count": "63"
+}, {
+  "continent": "Oceania",
+  "os": "microsoft windows",
+  "percentage_share": "17.68",
+  "count": "61"
+}, {
+  "continent": "Oceania",
+  "os": "ubiquiti unifi os",
+  "percentage_share": "7.25",
+  "count": "25"
+}, {
+  "continent": "Oceania",
+  "os": "cisco ios",
+  "percentage_share": "4.64",
+  "count": "16"
+}, {
+  "continent": "Oceania",
+  "os": "watchguard fireware",
+  "percentage_share": "4.35",
+  "count": "15"
+}, {
+  "continent": "Oceania",
+  "os": "pfsense freebsd",
+  "percentage_share": "4.06",
+  "count": "14"
+}, {
+  "continent": "Oceania",
+  "os": "check point gaia os",
+  "percentage_share": "3.77",
+  "count": "13"
+}, {
+  "continent": "Oceania",
+  "os": "proxmox proxmox",
+  "percentage_share": "3.48",
+  "count": "12"
+}, {
+  "continent": "Oceania",
+  "os": "ubuntu linux",
+  "percentage_share": "3.19",
+  "count": "11"
+}, {
+  "continent": "South America",
+  "os": "fortinet fortios",
+  "percentage_share": "67.61",
+  "count": "1820"
+}, {
+  "continent": "South America",
+  "os": "mikrotik routeros",
+  "percentage_share": "12.93",
+  "count": "348"
+}, {
+  "continent": "South America",
+  "os": "\u003cother\u003e",
+  "percentage_share": "5.83",
+  "count": "157"
+}, {
+  "continent": "South America",
+  "os": "check point gaia os",
+  "percentage_share": "3.38",
+  "count": "91"
+}, {
+  "continent": "South America",
+  "os": "microsoft windows",
+  "percentage_share": "2.79",
+  "count": "75"
+}, {
+  "continent": "South America",
+  "os": "cisco ios",
+  "percentage_share": "2.64",
+  "count": "71"
+}, {
+  "continent": "South America",
+  "os": "pfsense freebsd",
+  "percentage_share": "1.6",
+  "count": "43"
+}, {
+  "continent": "South America",
+  "os": "ubiquiti unifi os",
+  "percentage_share": "1.15",
+  "count": "31"
+}, {
+  "continent": "South America",
+  "os": "proxmox proxmox",
+  "percentage_share": "1.11",
+  "count": "30"
+}, {
+  "continent": "South America",
+  "os": "ubuntu linux",
+  "percentage_share": "0.97",
+  "count": "26"
+}]

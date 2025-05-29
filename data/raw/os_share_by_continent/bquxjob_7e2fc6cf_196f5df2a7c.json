@@ -1,0 +1,316 @@
+[{
+  "continent": "Africa",
+  "os": "mikrotik routeros",
+  "percentage_share": "25.56",
+  "count": "13686"
+}, {
+  "continent": "Africa",
+  "os": "fortinet fortios",
+  "percentage_share": "21.81",
+  "count": "11679"
+}, {
+  "continent": "Africa",
+  "os": "ubuntu linux",
+  "percentage_share": "13.54",
+  "count": "7250"
+}, {
+  "continent": "Africa",
+  "os": "\u003cother\u003e",
+  "percentage_share": "13.28",
+  "count": "7113"
+}, {
+  "continent": "Africa",
+  "os": "cisco ios",
+  "percentage_share": "12.36",
+  "count": "6617"
+}, {
+  "continent": "Africa",
+  "os": "microsoft windows",
+  "percentage_share": "7.6",
+  "count": "4069"
+}, {
+  "continent": "Africa",
+  "os": "debian linux",
+  "percentage_share": "2.0",
+  "count": "1072"
+}, {
+  "continent": "Africa",
+  "os": "check point gaia os",
+  "percentage_share": "1.51",
+  "count": "807"
+}, {
+  "continent": "Africa",
+  "os": "centos linux",
+  "percentage_share": "1.39",
+  "count": "743"
+}, {
+  "continent": "Africa",
+  "os": "redhat enterprise_linux",
+  "percentage_share": "0.95",
+  "count": "511"
+}, {
+  "continent": "Antarctica",
+  "os": "mikrotik routeros",
+  "percentage_share": "76.92",
+  "count": "10"
+}, {
+  "continent": "Antarctica",
+  "os": "centos linux",
+  "percentage_share": "15.38",
+  "count": "2"
+}, {
+  "continent": "Antarctica",
+  "os": "debian linux",
+  "percentage_share": "7.69",
+  "count": "1"
+}, {
+  "continent": "Asia",
+  "os": "ubuntu linux",
+  "percentage_share": "23.05",
+  "count": "15780"
+}, {
+  "continent": "Asia",
+  "os": "mikrotik routeros",
+  "percentage_share": "19.82",
+  "count": "13574"
+}, {
+  "continent": "Asia",
+  "os": "microsoft windows",
+  "percentage_share": "15.1",
+  "count": "10337"
+}, {
+  "continent": "Asia",
+  "os": "\u003cother\u003e",
+  "percentage_share": "14.51",
+  "count": "9937"
+}, {
+  "continent": "Asia",
+  "os": "fortinet fortios",
+  "percentage_share": "11.57",
+  "count": "7921"
+}, {
+  "continent": "Asia",
+  "os": "cisco ios",
+  "percentage_share": "5.79",
+  "count": "3962"
+}, {
+  "continent": "Asia",
+  "os": "linux linux",
+  "percentage_share": "3.36",
+  "count": "2299"
+}, {
+  "continent": "Asia",
+  "os": "debian linux",
+  "percentage_share": "3.3",
+  "count": "2259"
+}, {
+  "continent": "Asia",
+  "os": "centos linux",
+  "percentage_share": "2.15",
+  "count": "1473"
+}, {
+  "continent": "Asia",
+  "os": "synology dsm",
+  "percentage_share": "1.36",
+  "count": "930"
+}, {
+  "continent": "Europe",
+  "os": "ubuntu linux",
+  "percentage_share": "26.55",
+  "count": "15124"
+}, {
+  "continent": "Europe",
+  "os": "\u003cother\u003e",
+  "percentage_share": "18.63",
+  "count": "10610"
+}, {
+  "continent": "Europe",
+  "os": "microsoft windows",
+  "percentage_share": "16.26",
+  "count": "9262"
+}, {
+  "continent": "Europe",
+  "os": "debian linux",
+  "percentage_share": "10.76",
+  "count": "6127"
+}, {
+  "continent": "Europe",
+  "os": "fortinet fortios",
+  "percentage_share": "8.71",
+  "count": "4959"
+}, {
+  "continent": "Europe",
+  "os": "mikrotik routeros",
+  "percentage_share": "4.82",
+  "count": "2744"
+}, {
+  "continent": "Europe",
+  "os": "synology dsm",
+  "percentage_share": "4.62",
+  "count": "2631"
+}, {
+  "continent": "Europe",
+  "os": "centos linux",
+  "percentage_share": "3.32",
+  "count": "1893"
+}, {
+  "continent": "Europe",
+  "os": "linux linux",
+  "percentage_share": "3.21",
+  "count": "1827"
+}, {
+  "continent": "Europe",
+  "os": "freebox freebox os",
+  "percentage_share": "3.12",
+  "count": "1778"
+}, {
+  "continent": "North America",
+  "os": "fortinet fortios",
+  "percentage_share": "23.67",
+  "count": "5370"
+}, {
+  "continent": "North America",
+  "os": "\u003cother\u003e",
+  "percentage_share": "17.49",
+  "count": "3968"
+}, {
+  "continent": "North America",
+  "os": "microsoft windows",
+  "percentage_share": "11.31",
+  "count": "2565"
+}, {
+  "continent": "North America",
+  "os": "cisco ios",
+  "percentage_share": "10.27",
+  "count": "2329"
+}, {
+  "continent": "North America",
+  "os": "ubuntu linux",
+  "percentage_share": "9.98",
+  "count": "2265"
+}, {
+  "continent": "North America",
+  "os": "linux linux",
+  "percentage_share": "9.25",
+  "count": "2098"
+}, {
+  "continent": "North America",
+  "os": "mikrotik routeros",
+  "percentage_share": "9.19",
+  "count": "2085"
+}, {
+  "continent": "North America",
+  "os": "debian linux",
+  "percentage_share": "3.24",
+  "count": "734"
+}, {
+  "continent": "North America",
+  "os": "watchguard fireware",
+  "percentage_share": "3.2",
+  "count": "725"
+}, {
+  "continent": "North America",
+  "os": "check point gaia os",
+  "percentage_share": "2.41",
+  "count": "546"
+}, {
+  "continent": "Oceania",
+  "os": "\u003cother\u003e",
+  "percentage_share": "24.25",
+  "count": "1822"
+}, {
+  "continent": "Oceania",
+  "os": "fortinet fortios",
+  "percentage_share": "22.27",
+  "count": "1673"
+}, {
+  "continent": "Oceania",
+  "os": "ubuntu linux",
+  "percentage_share": "12.7",
+  "count": "954"
+}, {
+  "continent": "Oceania",
+  "os": "cisco ios",
+  "percentage_share": "12.31",
+  "count": "925"
+}, {
+  "continent": "Oceania",
+  "os": "microsoft windows",
+  "percentage_share": "11.5",
+  "count": "864"
+}, {
+  "continent": "Oceania",
+  "os": "mikrotik routeros",
+  "percentage_share": "5.08",
+  "count": "382"
+}, {
+  "continent": "Oceania",
+  "os": "redhat enterprise_linux",
+  "percentage_share": "4.14",
+  "count": "311"
+}, {
+  "continent": "Oceania",
+  "os": "debian linux",
+  "percentage_share": "2.72",
+  "count": "204"
+}, {
+  "continent": "Oceania",
+  "os": "linux linux",
+  "percentage_share": "2.52",
+  "count": "189"
+}, {
+  "continent": "Oceania",
+  "os": "synology dsm",
+  "percentage_share": "2.52",
+  "count": "189"
+}, {
+  "continent": "South America",
+  "os": "\u003cother\u003e",
+  "percentage_share": "20.34",
+  "count": "2290"
+}, {
+  "continent": "South America",
+  "os": "mikrotik routeros",
+  "percentage_share": "18.07",
+  "count": "2034"
+}, {
+  "continent": "South America",
+  "os": "fortinet fortios",
+  "percentage_share": "15.72",
+  "count": "1770"
+}, {
+  "continent": "South America",
+  "os": "ubuntu linux",
+  "percentage_share": "12.26",
+  "count": "1380"
+}, {
+  "continent": "South America",
+  "os": "microsoft windows",
+  "percentage_share": "11.66",
+  "count": "1313"
+}, {
+  "continent": "South America",
+  "os": "cisco ios",
+  "percentage_share": "7.92",
+  "count": "891"
+}, {
+  "continent": "South America",
+  "os": "redhat enterprise_linux",
+  "percentage_share": "5.29",
+  "count": "595"
+}, {
+  "continent": "South America",
+  "os": "debian linux",
+  "percentage_share": "4.59",
+  "count": "517"
+}, {
+  "continent": "South America",
+  "os": "linksys linux",
+  "percentage_share": "2.16",
+  "count": "243"
+}, {
+  "continent": "South America",
+  "os": "centos linux",
+  "percentage_share": "1.99",
+  "count": "224"
+}]
