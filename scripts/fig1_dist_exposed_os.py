@@ -142,7 +142,7 @@ ax.legend(unique_legend_items.values(), unique_legend_items.keys(),
           loc='upper center', bbox_to_anchor=(0.5, -0.06),
           fancybox=True, shadow=True, ncol=4)
 
-plt.title('Distribution of Exposed Operating Systems by Location', fontsize=14, pad=20)
+plt.title('', fontsize=14, pad=20)
 plt.tight_layout()
 plt.subplots_adjust(bottom=0.15 if fig_height > 12 else 0.2)
 plt.savefig('../figures/fig1_dist_exposed_os.png')
