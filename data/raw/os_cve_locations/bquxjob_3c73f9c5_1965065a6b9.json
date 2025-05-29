@@ -1,0 +1,685 @@
+[{
+  "country": "Maldives",
+  "country_code": "MV",
+  "hosts_with_cve": "1",
+  "host_count": "5",
+  "percentage_with_cve": "20.0"
+}, {
+  "country": "Guam",
+  "country_code": "GU",
+  "hosts_with_cve": "1",
+  "host_count": "10",
+  "percentage_with_cve": "10.0"
+}, {
+  "country": "Malta",
+  "country_code": "MT",
+  "hosts_with_cve": "1",
+  "host_count": "12",
+  "percentage_with_cve": "8.33"
+}, {
+  "country": "Dominican Republic",
+  "country_code": "DO",
+  "hosts_with_cve": "1",
+  "host_count": "44",
+  "percentage_with_cve": "2.27"
+}, {
+  "country": "Haiti",
+  "country_code": "HT",
+  "hosts_with_cve": "2",
+  "host_count": "117",
+  "percentage_with_cve": "1.71"
+}, {
+  "country": "Qatar",
+  "country_code": "QA",
+  "hosts_with_cve": "2",
+  "host_count": "129",
+  "percentage_with_cve": "1.55"
+}, {
+  "country": "South Sudan",
+  "country_code": "SS",
+  "hosts_with_cve": "1",
+  "host_count": "85",
+  "percentage_with_cve": "1.18"
+}, {
+  "country": "Italy",
+  "country_code": "IT",
+  "hosts_with_cve": "4",
+  "host_count": "409",
+  "percentage_with_cve": "0.98"
+}, {
+  "country": "Nigeria",
+  "country_code": "NG",
+  "hosts_with_cve": "3",
+  "host_count": "387",
+  "percentage_with_cve": "0.78"
+}, {
+  "country": "Kenya",
+  "country_code": "KE",
+  "hosts_with_cve": "2",
+  "host_count": "260",
+  "percentage_with_cve": "0.77"
+}, {
+  "country": "Jamaica",
+  "country_code": "JM",
+  "hosts_with_cve": "1",
+  "host_count": "138",
+  "percentage_with_cve": "0.72"
+}, {
+  "country": "United States",
+  "country_code": "US",
+  "hosts_with_cve": "65",
+  "host_count": "9912",
+  "percentage_with_cve": "0.66"
+}, {
+  "country": "Yemen",
+  "country_code": "YE",
+  "hosts_with_cve": "1",
+  "host_count": "151",
+  "percentage_with_cve": "0.66"
+}, {
+  "country": "Colombia",
+  "country_code": "CO",
+  "hosts_with_cve": "4",
+  "host_count": "810",
+  "percentage_with_cve": "0.49"
+}, {
+  "country": "Bulgaria",
+  "country_code": "BG",
+  "hosts_with_cve": "1",
+  "host_count": "220",
+  "percentage_with_cve": "0.45"
+}, {
+  "country": "Germany",
+  "country_code": "DE",
+  "hosts_with_cve": "3",
+  "host_count": "828",
+  "percentage_with_cve": "0.36"
+}, {
+  "country": "Japan",
+  "country_code": "JP",
+  "hosts_with_cve": "1",
+  "host_count": "321",
+  "percentage_with_cve": "0.31"
+}, {
+  "country": "Philippines",
+  "country_code": "PH",
+  "hosts_with_cve": "1",
+  "host_count": "377",
+  "percentage_with_cve": "0.27"
+}, {
+  "country": "Peru",
+  "country_code": "PE",
+  "hosts_with_cve": "2",
+  "host_count": "795",
+  "percentage_with_cve": "0.25"
+}, {
+  "country": "Malaysia",
+  "country_code": "MY",
+  "hosts_with_cve": "1",
+  "host_count": "402",
+  "percentage_with_cve": "0.25"
+}, {
+  "country": "France",
+  "country_code": "FR",
+  "hosts_with_cve": "3",
+  "host_count": "1285",
+  "percentage_with_cve": "0.23"
+}, {
+  "country": "Mexico",
+  "country_code": "MX",
+  "hosts_with_cve": "4",
+  "host_count": "1945",
+  "percentage_with_cve": "0.21"
+}, {
+  "country": "Australia",
+  "country_code": "AU",
+  "hosts_with_cve": "3",
+  "host_count": "2030",
+  "percentage_with_cve": "0.15"
+}, {
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "hosts_with_cve": "2",
+  "host_count": "1301",
+  "percentage_with_cve": "0.15"
+}, {
+  "country": "Argentina",
+  "country_code": "AR",
+  "hosts_with_cve": "1",
+  "host_count": "984",
+  "percentage_with_cve": "0.1"
+}, {
+  "country": "Chile",
+  "country_code": "CL",
+  "hosts_with_cve": "1",
+  "host_count": "2056",
+  "percentage_with_cve": "0.05"
+}, {
+  "country": "Canada",
+  "country_code": "CA",
+  "hosts_with_cve": "1",
+  "host_count": "2262",
+  "percentage_with_cve": "0.04"
+}, {
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "hosts_with_cve": "0",
+  "host_count": "207",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Madagascar",
+  "country_code": "MG",
+  "hosts_with_cve": "0",
+  "host_count": "46",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Cyprus",
+  "country_code": "CY",
+  "hosts_with_cve": "0",
+  "host_count": "58",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Mozambique",
+  "country_code": "MZ",
+  "hosts_with_cve": "0",
+  "host_count": "165",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Rwanda",
+  "country_code": "RW",
+  "hosts_with_cve": "0",
+  "host_count": "19",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Ecuador",
+  "country_code": "EC",
+  "hosts_with_cve": "0",
+  "host_count": "254",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": null,
+  "country_code": null,
+  "hosts_with_cve": "0",
+  "host_count": "8",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Zambia",
+  "country_code": "ZM",
+  "hosts_with_cve": "0",
+  "host_count": "118",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Honduras",
+  "country_code": "HN",
+  "hosts_with_cve": "0",
+  "host_count": "28",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Poland",
+  "country_code": "PL",
+  "hosts_with_cve": "0",
+  "host_count": "125",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Greece",
+  "country_code": "GR",
+  "hosts_with_cve": "0",
+  "host_count": "136",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Bahamas",
+  "country_code": "BS",
+  "hosts_with_cve": "0",
+  "host_count": "78",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Ghana",
+  "country_code": "GH",
+  "hosts_with_cve": "0",
+  "host_count": "87",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Benin",
+  "country_code": "BJ",
+  "hosts_with_cve": "0",
+  "host_count": "3",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Brazil",
+  "country_code": "BR",
+  "hosts_with_cve": "0",
+  "host_count": "1072",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Panama",
+  "country_code": "PA",
+  "hosts_with_cve": "0",
+  "host_count": "24",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "French Guiana",
+  "country_code": "GF",
+  "hosts_with_cve": "0",
+  "host_count": "22",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Vanuatu",
+  "country_code": "VU",
+  "hosts_with_cve": "0",
+  "host_count": "31",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "East Timor",
+  "country_code": "TL",
+  "hosts_with_cve": "0",
+  "host_count": "2",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Bhutan",
+  "country_code": "BT",
+  "hosts_with_cve": "0",
+  "host_count": "1",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Samoa",
+  "country_code": "WS",
+  "hosts_with_cve": "0",
+  "host_count": "3",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Mongolia",
+  "country_code": "MN",
+  "hosts_with_cve": "0",
+  "host_count": "15",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Oman",
+  "country_code": "OM",
+  "hosts_with_cve": "0",
+  "host_count": "1280",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Guadeloupe",
+  "country_code": "GP",
+  "hosts_with_cve": "0",
+  "host_count": "13",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Zimbabwe",
+  "country_code": "ZW",
+  "hosts_with_cve": "0",
+  "host_count": "221",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "South Africa",
+  "country_code": "ZA",
+  "hosts_with_cve": "0",
+  "host_count": "10",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Botswana",
+  "country_code": "BW",
+  "hosts_with_cve": "0",
+  "host_count": "64",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Ukraine",
+  "country_code": "UA",
+  "hosts_with_cve": "0",
+  "host_count": "23",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Czech Republic",
+  "country_code": "CZ",
+  "hosts_with_cve": "0",
+  "host_count": "22",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Spain",
+  "country_code": "ES",
+  "hosts_with_cve": "0",
+  "host_count": "543",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Netherlands",
+  "country_code": "NL",
+  "hosts_with_cve": "0",
+  "host_count": "188",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Belgium",
+  "country_code": "BE",
+  "hosts_with_cve": "0",
+  "host_count": "109",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Switzerland",
+  "country_code": "CH",
+  "hosts_with_cve": "0",
+  "host_count": "20",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Guernsey",
+  "country_code": "GG",
+  "hosts_with_cve": "0",
+  "host_count": "2",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Paraguay",
+  "country_code": "PY",
+  "hosts_with_cve": "0",
+  "host_count": "35",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Portugal",
+  "country_code": "PT",
+  "hosts_with_cve": "0",
+  "host_count": "24",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Ireland",
+  "country_code": "IE",
+  "hosts_with_cve": "0",
+  "host_count": "41",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Burundi",
+  "country_code": "BI",
+  "hosts_with_cve": "0",
+  "host_count": "6",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "El Salvador",
+  "country_code": "SV",
+  "hosts_with_cve": "0",
+  "host_count": "18",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Guatemala",
+  "country_code": "GT",
+  "hosts_with_cve": "0",
+  "host_count": "95",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Costa Rica",
+  "country_code": "CR",
+  "hosts_with_cve": "0",
+  "host_count": "27",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Norway",
+  "country_code": "NO",
+  "hosts_with_cve": "0",
+  "host_count": "16",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Romania",
+  "country_code": "RO",
+  "hosts_with_cve": "0",
+  "host_count": "8",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Uruguay",
+  "country_code": "UY",
+  "hosts_with_cve": "0",
+  "host_count": "25",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Singapore",
+  "country_code": "SG",
+  "hosts_with_cve": "0",
+  "host_count": "3",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Fiji",
+  "country_code": "FJ",
+  "hosts_with_cve": "0",
+  "host_count": "40",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Solomon Islands",
+  "country_code": "SB",
+  "hosts_with_cve": "0",
+  "host_count": "16",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "American Samoa",
+  "country_code": "AS",
+  "hosts_with_cve": "0",
+  "host_count": "1",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Latvia",
+  "country_code": "LV",
+  "hosts_with_cve": "0",
+  "host_count": "3",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Austria",
+  "country_code": "AT",
+  "hosts_with_cve": "0",
+  "host_count": "63",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Mayotte",
+  "country_code": "YT",
+  "hosts_with_cve": "0",
+  "host_count": "39",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "United Arab Emirates",
+  "country_code": "AE",
+  "hosts_with_cve": "0",
+  "host_count": "5",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Serbia",
+  "country_code": "RS",
+  "hosts_with_cve": "0",
+  "host_count": "1",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Croatia",
+  "country_code": "HR",
+  "hosts_with_cve": "0",
+  "host_count": "5",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Lithuania",
+  "country_code": "LT",
+  "hosts_with_cve": "0",
+  "host_count": "2",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Azerbaijan",
+  "country_code": "AZ",
+  "hosts_with_cve": "0",
+  "host_count": "1",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Iceland",
+  "country_code": "IS",
+  "hosts_with_cve": "0",
+  "host_count": "6",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Israel",
+  "country_code": "IL",
+  "hosts_with_cve": "0",
+  "host_count": "5",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Slovakia",
+  "country_code": "SK",
+  "hosts_with_cve": "0",
+  "host_count": "12",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Hungary",
+  "country_code": "HU",
+  "hosts_with_cve": "0",
+  "host_count": "11",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Denmark",
+  "country_code": "DK",
+  "hosts_with_cve": "0",
+  "host_count": "7",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Reunion",
+  "country_code": "RE",
+  "hosts_with_cve": "0",
+  "host_count": "7",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Georgia",
+  "country_code": "GE",
+  "hosts_with_cve": "0",
+  "host_count": "17",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Slovenia",
+  "country_code": "SI",
+  "hosts_with_cve": "0",
+  "host_count": "2",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Tonga",
+  "country_code": "TO",
+  "hosts_with_cve": "0",
+  "host_count": "17",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Northern Mariana Islands",
+  "country_code": "MP",
+  "hosts_with_cve": "0",
+  "host_count": "2",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Sierra Leone",
+  "country_code": "SL",
+  "hosts_with_cve": "0",
+  "host_count": "17",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Puerto Rico",
+  "country_code": "PR",
+  "hosts_with_cve": "0",
+  "host_count": "46",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Trinidad and Tobago",
+  "country_code": "TT",
+  "hosts_with_cve": "0",
+  "host_count": "6",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Macedonia",
+  "country_code": "MK",
+  "hosts_with_cve": "0",
+  "host_count": "4",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Finland",
+  "country_code": "FI",
+  "hosts_with_cve": "0",
+  "host_count": "1",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Sweden",
+  "country_code": "SE",
+  "hosts_with_cve": "0",
+  "host_count": "12",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Malawi",
+  "country_code": "MW",
+  "hosts_with_cve": "0",
+  "host_count": "100",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Swaziland",
+  "country_code": "SZ",
+  "hosts_with_cve": "0",
+  "host_count": "25",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Barbados",
+  "country_code": "BB",
+  "hosts_with_cve": "0",
+  "host_count": "5",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Saint Barthelemy",
+  "country_code": "BL",
+  "hosts_with_cve": "0",
+  "host_count": "7",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Saint Martin",
+  "country_code": "MF",
+  "hosts_with_cve": "0",
+  "host_count": "16",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Martinique",
+  "country_code": "MQ",
+  "hosts_with_cve": "0",
+  "host_count": "38",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "U.S. Virgin Islands",
+  "country_code": "VI",
+  "hosts_with_cve": "0",
+  "host_count": "14",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Cape Verde",
+  "country_code": "CV",
+  "hosts_with_cve": "0",
+  "host_count": "3",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Liberia",
+  "country_code": "LR",
+  "hosts_with_cve": "0",
+  "host_count": "20",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Tuvalu",
+  "country_code": "TV",
+  "hosts_with_cve": "0",
+  "host_count": "7",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Niger",
+  "country_code": "NE",
+  "hosts_with_cve": "0",
+  "host_count": "1",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Cook Islands",
+  "country_code": "CK",
+  "hosts_with_cve": "0",
+  "host_count": "1",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Micronesia",
+  "country_code": "FM",
+  "hosts_with_cve": "0",
+  "host_count": "1",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Luxembourg",
+  "country_code": "LU",
+  "hosts_with_cve": "0",
+  "host_count": "1",
+  "percentage_with_cve": "0.0"
+}, {
+  "country": "Albania",
+  "country_code": "AL",
+  "hosts_with_cve": "0",
+  "host_count": "3",
+  "percentage_with_cve": "0.0"
+}]
