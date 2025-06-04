@@ -1,0 +1,1 @@
+This query generates protocol insecurity data from the Censys dataset. Checking SSH ciphers, TLS versions, and SMB available, we set insecurity appropriately. The final output is a list of countries with non-Starlink and Starlink ratios. It's also available in `../../raw/insecure_hosts/insecure_hosts.csv`.

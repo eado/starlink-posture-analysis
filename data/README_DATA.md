@@ -27,3 +27,7 @@ done
 ```
 7. Upload `nvdcve.jsonl` to a Google Cloud Storage bucket
 8. Load the `nvdcve.jsonl` file from the bucket into a Google BigQuery table (accept default settings, make sure the selected format is "JSON *lines*" or similar), name the table `nvdcve`
+
+# Natural Earth Data
+`raw/ne_110m_admin_0_sovereignty`
+Downloaded from [Natural Earth Data](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/ne_110m_admin_0_sovereignty.zip) on 4/27/25. Used for geographic distribution figures.

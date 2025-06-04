@@ -1,0 +1,1 @@
+Downloaded from [Natural Earth Data](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/110m/cultural/ne_110m_admin_0_sovereignty.zip) on 4/27/25. Used for geographic distribution figures.
