@@ -51,6 +51,7 @@ data = compare_proportions(data)
 
 # Drop missing values (e.g., from Fisher's test if z_stat is nan)
 p_values = data['p_value'].dropna().sort_values().values
+print(data[data['p_value'] < 0.05])
 
 # Compute empirical CDF
 cdf_y = np.arange(1, len(p_values)+1) / len(p_values)
