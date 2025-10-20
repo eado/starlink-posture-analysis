@@ -6,7 +6,7 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 
 # Load insecure hosts data
-data = pd.read_csv("../data/raw/insecure_hosts/insecure_hosts.csv")
+data = pd.read_csv("../data/raw/insecure_hosts/insecure_hosts_plus.csv")
 data["insecure_ratio"] = data["starlink_insecure_rate"] / data["all_insecure_rate"]
 data = data.dropna()
 
@@ -132,12 +132,24 @@ if len(significant_countries) > 0:
     print(f"\n🔴 WORSE than expected ({len(significant_countries[significant_countries['insecurity_residual'] > 0])} countries):")
     worse_countries = significant_countries[significant_countries['insecurity_residual'] > 0]
     for _, row in worse_countries.iterrows():
+        starlink_secure = row['starlink_total'] - row['starlink_insecure']
+        non_starlink_insecure = row['all_insecure'] - row['starlink_insecure']
+        non_starlink_total = row['all_total'] - row['starlink_total']
+        non_starlink_secure = non_starlink_total - non_starlink_insecure
         print(f"  {row['country_name']}: residual = {row['insecurity_residual']:.3f} (expected: {row['expected_insecurity']:.3f}, actual: {row['insecure_ratio']:.3f})")
+        print(f"    Starlink: {int(row['starlink_insecure'])} insecure, {int(starlink_secure)} secure")
+        print(f"    Non-Starlink: {int(non_starlink_insecure)} insecure, {int(non_starlink_secure)} secure")
 
     print(f"\n🟢 BETTER than expected ({len(significant_countries[significant_countries['insecurity_residual'] < 0])} countries):")
     better_countries = significant_countries[significant_countries['insecurity_residual'] < 0]
     for _, row in better_countries.iterrows():
+        starlink_secure = row['starlink_total'] - row['starlink_insecure']
+        non_starlink_insecure = row['all_insecure'] - row['starlink_insecure']
+        non_starlink_total = row['all_total'] - row['starlink_total']
+        non_starlink_secure = non_starlink_total - non_starlink_insecure
         print(f"  {row['country_name']}: residual = {row['insecurity_residual']:.3f} (expected: {row['expected_insecurity']:.3f}, actual: {row['insecure_ratio']:.3f})")
+        print(f"    Starlink: {int(row['starlink_insecure'])} insecure, {int(starlink_secure)} secure")
+        print(f"    Non-Starlink: {int(non_starlink_insecure)} insecure, {int(non_starlink_secure)} secure")
 
 else:
     print("No countries significantly deviate from wealth-expected levels.")
